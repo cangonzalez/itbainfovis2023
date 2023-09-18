@@ -1,0 +1,66 @@
+{
+  "wa_settings": {
+    "last_seen_privacy": "none",
+    "profile_photo_privacy": "all",
+    "about_privacy": "all",
+    "status_privacy": [
+      
+    ],
+    "blocked_numbers": [
+      "+5491141685019",
+      "+5493786613389"
+    ],
+    "blocked_numbers_update_time": 1678504111,
+    "read_receipts": "all",
+    "settings_last_fetch_time": {
+      "5": 1694545692,
+      "0": 1694704131
+    },
+    "current_sync_session_id": "MQsmdVmaWIy5CfPU5fKDrA==",
+    "current_sync_session_account_registration_time": 1666567426,
+    "sync_sessions": [
+      {
+        "sync_session_id": "MQsmdVmaWIy5CfPU5fKDrA==",
+        "account_registration_time": 1666567426,
+        "state_collections": [
+          "critical_block",
+          "critical_unblock_low",
+          "regular",
+          "regular_high",
+          "regular_low"
+        ]
+      }
+    ],
+    "device_sync_status": [
+      {
+        "device_id": 0,
+        "last_notification_dropped_time": 1648593576
+      },
+      {
+        "device_id": 5
+      }
+    ],
+    "device_info": [
+      {
+        "device_id": 0,
+        "app_version": "iPhone-2.23.14.79",
+        "operating_system_version": "16.0.3",
+        "device_manufacturer": "Apple",
+        "device_model": "iPhone 13"
+      },
+      {
+        "device_id": 5,
+        "app_version": "Web-2.2335.9",
+        "operating_system_version": "21.6.0",
+        "device_manufacturer": "",
+        "device_model": "Desktop"
+      }
+    ],
+    "notification_settings": [
+      
+    ],
+    "muted_groups": [
+      
+    ]
+  }
+}
